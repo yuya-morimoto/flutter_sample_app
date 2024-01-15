@@ -24,7 +24,7 @@ open -a Simulator
 emulator -list-avds
 ~/Library/Android/sdk/emulator/emulator -netdelay none -netspeed full -avd {avd_name}
 ## wipe-data
-~/Library/Android/sdk/emulator/emulator -avd {avd_name} -wipe-data
+~/Library/Android/sdk/emulator/emulator -netdelay none -netspeed full -avd {avd_name} -wipe-data
 
 
 # Flutterコマンド

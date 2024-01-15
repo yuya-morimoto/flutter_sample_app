@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/Users/ym/Workspaces/flutter_sample_app/linux"
+  "cmake.sourceDirectory": "/Users/ym/Workspaces/flutter_sample_app/linux",
+  "cSpell.words": ["Cupertino"]
 }
